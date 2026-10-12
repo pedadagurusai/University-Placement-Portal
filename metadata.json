@@ -1,0 +1,8 @@
+{
+  "name": "Remix University Placement \u0026 Department No-Dues Portal",
+  "description": "Comprehensive institutional portal for university placement tracking, recruitment drive analytics, company outcomes, and departmental no-dues clearance verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
